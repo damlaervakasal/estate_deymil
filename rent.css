@@ -1,0 +1,27 @@
+body{
+    position: absolute;
+    overflow-x: hidden; 
+    overflow-y: scroll;
+}
+#navbar{
+    background-color: rgb(247, 252, 247);
+    background-attachment: fixed;
+}
+
+#rentahouse {
+    background-color: rgb(247, 252, 247);
+    background-attachment: fixed;
+}
+
+#contact{
+    background-color: rgb(247, 252, 247);
+    background-attachment: fixed;
+}
+
+button.btn.btn-outline-danger{
+    margin-left: 290px;
+}
+
+a.navbar-brand{
+    font-size: 30px;
+}

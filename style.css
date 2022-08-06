@@ -1,0 +1,98 @@
+body{
+    background-image: url(assets/home.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+    position: fixed;
+    
+}
+
+
+div.row{
+    margin-top: 580px;
+    margin-left: 320px;
+    color:  rgb(247, 252, 247);
+      
+}
+a.nav-link{
+    font-size: 20px;
+}
+
+a.nav-link:hover{
+    color: tan;
+}
+
+a.nav-link{
+    
+    color:  rgb(247, 252, 247);
+}
+
+
+a.navbar-brand{
+    font-size: 33px;
+    color:  rgb(247, 252, 247);
+}
+
+a.navbar-brand:hover{
+   
+    color: tan;
+}
+
+
+#box1 {
+    width: 300px;
+    height: 100px;
+    font-size: 28px;
+    
+}
+
+#box2 {
+    margin-left: 80px;
+    width: 300px;
+    height: 100px;
+    font-size: 28px;
+   
+}
+
+#buyhome {
+    color: rgb(238, 246, 253);
+}
+
+#about{
+    background-color:rgb(14, 31, 61);
+    color: rgb(247, 252, 247);
+}
+
+div#searchhome.offcanvas.offcanvas-start.show{
+    background-color:rgb(14, 31, 61);
+}
+
+label.form-check-label{
+    color: rgb(247, 252, 247);
+}
+
+button.btn.btn-light.mt-5{
+    margin-left: 300.6px;
+}
+
+button.btn.btn-outline-danger{
+    margin-left: 290px;
+}
+
+.social-media {
+    text-align: center;
+    font-size: 50px;
+}
+
+i.fa-brands.fa-linkedin {
+    margin-right: 25px;
+    color: #0e76a8;
+}
+
+i.fa-brands.fa-github {
+    margin-right: 25px;
+    color: #171515; 
+}
+
+ i.fa-brands.fa-instagram {
+    color: #e613b8;   
+} 
